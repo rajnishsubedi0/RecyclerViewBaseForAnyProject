@@ -1,0 +1,2 @@
+# RecyclerViewBaseForAnyProject
+recyclerview
